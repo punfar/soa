@@ -471,3 +471,22 @@ footer {
         padding-bottom: 80px; } }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+.open-gallery a:hover, .open-gallery-view a:hover, .open-gallery a:focus, .open-gallery-view a:focus, .open-gallery a:active, .open-gallery-view a:active {
+    text-decoration: none;
+    background-color: #444444;
+    color: white;
+}
+.open-gallery a, .open-gallery-view a {
+    font-size: .857em;
+    padding: 2px 5px;
+    background-color: #e6e6e6;
+    text-transform: uppercase;
+    color: #333333;
+    text-decoration: none;
+}
+.open-gallery {
+    text-align: right;
+}
